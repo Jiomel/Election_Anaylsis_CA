@@ -17,7 +17,7 @@ A colorado Board of Elections employee has given you the following tasks to comp
 The purpose of this election audit analysis was to go through a large data set that included the Ballot ID, County, and Candidate and count the total number of votes for each candidate and county, calculate the percentage of total votes, and finally conclude a winner of the election. This was completed by using Visual Studio to code the program in Python. 
 
 ## Election-Audit Results:
-![Terminal](resources/Terminal_results.JPG) ![Text File](resources/txt_results.JPG) 
+![Terminal](resources/Terminal_results.JPG) ![Text File](resources/txt_results.png) 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election
 - The candidates were:
